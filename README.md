@@ -44,7 +44,3 @@ La arquitectura del sistema sigue un modelo cliente-servidor ligero de tres capa
 - **Automatización de alertas:** Reducción del riesgo de desabastecimiento gracias al módulo de vigilancia que destaca de inmediato los productos con stock crítico en color rojo.
 - **Optimización operativa:** El comerciante cuenta con una herramienta centralizada y rápida para registrar, auditar y modificar su inventario en segundos, mejorando la toma de decisiones comerciales.
 
-## 5. INSTRUCCIONES DE DESPLIEGUE
-1. **Instalar dependencias:** Ejecuta `pip install flask` en tu terminal.
-2. **Ejecutar la aplicación:** Inicia el servidor ejecutando `python app.py`.
-3. **Acceder al sistema:** Abre tu navegador web e ingresa a la URL `http://localhost:5000`.
